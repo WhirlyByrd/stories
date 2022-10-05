@@ -2,7 +2,7 @@
 
 ### Debuggin Through Trial and Error
 
-Testing and debugging code is something that all developers must do for any project. I like to test regularly throughout the coding process. I test each function after it is written and sometimes I will check individual pieces within the function itself to make sure it is doing what I want. Using a simple console.log() will gives me a good idea on what data is being returned or not.
+Testing and debugging code is something that all developers must do for any project. I like to test regularly throughout the coding process. I test each function after it is written and sometimes I will check individual pieces within the function itself to make sure it is doing what I want. Using a simple console.log() will give me a good idea on what data is being returned or not.
 
 When there is an error, I find that the first thing that should be checked is the console either inside VSCode or Chrome’s Dev Tools. The consoled error usually can identify where exactly the code failed to run. In my experience it is usually a simple typo or syntax error. Sometimes, though, I will scour my code and still not find the error. Paired programming helps to resolve this issue.
 
